@@ -1,0 +1,9 @@
+@import "node_modules/bootstrap/scss/bootstrap";
+
+html{
+    font-size: 62.5%;
+}
+.navbar{
+    background-image: linear-gradient(to right , #cc75fe , #0192ce);
+    padding: 50px;
+}
